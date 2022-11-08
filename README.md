@@ -13,3 +13,5 @@ pip install gputil==1.4.0
 pip install pycocotools
 
 如有问题请及时留言，非常感谢
+
+一名来自武汉科技大学的小菜鸡
