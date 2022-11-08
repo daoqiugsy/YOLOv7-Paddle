@@ -22,5 +22,3 @@ pip install pycocotools
 本人后续也会增加一些新的模块
 
 
-
-一名来自武汉科技大学的小菜鸡
