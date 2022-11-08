@@ -1,0 +1,8 @@
+
+train: C:/Users/12424/Desktop/yolo/yolov5-master/shipdata/train/images/
+val: C:/Users/12424/Desktop/yolo/yolov5-master/shipdata/val/images/
+test:  # test images (optional)
+
+# Classes
+nc: 1 # number of classes
+names: ["ship"]
