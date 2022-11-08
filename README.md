@@ -1,4 +1,4 @@
-# YOLOv7-Paddle-main
+# YOLOv7-Paddle
 本人在参照这位大佬的yolov5 paddle版本，构建了yolov7的paddle版本
 
 来源于https://github.com/GuoQuanhao/YOLOv5-Paddle
