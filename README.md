@@ -12,6 +12,9 @@ pip install gputil==1.4.0
 
 pip install pycocotools
 
+![image](https://user-images.githubusercontent.com/78654431/200555766-7f103e63-b283-4c59-91de-0ac054df849e.png)
+
+
 如有问题请及时留言，非常感谢
 
 本人后续也会增加一些新的模块
