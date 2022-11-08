@@ -12,6 +12,8 @@ pip install gputil==1.4.0
 
 pip install pycocotools
 
+训练效果
+
 ![image](https://user-images.githubusercontent.com/78654431/200555766-7f103e63-b283-4c59-91de-0ac054df849e.png)
 
 
